@@ -16,6 +16,7 @@
 		F4AED67D24C0E2C800421C7F /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4AED67C24C0E2C800421C7F /* NetworkManager.swift */; };
 		F4AED67F24C0E3B800421C7F /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4AED67E24C0E3B800421C7F /* PostData.swift */; };
 		F4AED68424C0EA7700421C7F /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4AED68324C0EA7700421C7F /* DetailView.swift */; };
+		F4AED68624C0EDDA00421C7F /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4AED68524C0EDDA00421C7F /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		F4AED67C24C0E2C800421C7F /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		F4AED67E24C0E3B800421C7F /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		F4AED68324C0EA7700421C7F /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		F4AED68524C0EDDA00421C7F /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				F4AED66B24C0DD8200421C7F /* ContentView.swift */,
 				F4AED68324C0EA7700421C7F /* DetailView.swift */,
+				F4AED68524C0EDDA00421C7F /* WebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 				F4AED66824C0DD8200421C7F /* AppDelegate.swift in Sources */,
 				F4AED66A24C0DD8200421C7F /* SceneDelegate.swift in Sources */,
 				F4AED66C24C0DD8200421C7F /* ContentView.swift in Sources */,
+				F4AED68624C0EDDA00421C7F /* WebView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
